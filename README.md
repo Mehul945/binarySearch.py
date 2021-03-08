@@ -1,4 +1,20 @@
 # binarySearch.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def sort(list):
     for i in range(len(list)-1):
         if i==len(list)-1:
